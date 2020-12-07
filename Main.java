@@ -4,7 +4,7 @@ class Main {
   import java.io.IOException;
   //import Filewriter
   import java.io.FileWriter;
-  //
+  //import scanner
 
   public static void main(String[] args) {
     System.out.println("Hello world!");
