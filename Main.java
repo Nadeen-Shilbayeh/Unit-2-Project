@@ -11,6 +11,8 @@ class Main {
     //declaring variables and scanners
     File myFile = new File("filename.txt");
     myFile.createNewFile();
+    int [] quantity = new int[5];
+    double [] price = new int[5];
     Scanner input = new Scanner(System.in);
 
   }
