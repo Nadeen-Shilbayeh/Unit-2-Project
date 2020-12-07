@@ -11,4 +11,6 @@ class Main {
     //declaring variables and scanners
     File myFile = new File("filename.txt");
     myFile.createNewFile();
+    Scanner input = new Scanner(System.in);
+
   }
