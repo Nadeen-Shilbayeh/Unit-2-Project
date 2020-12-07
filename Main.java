@@ -8,5 +8,7 @@ import java.util.Scanner;
 
 class Main {
   public static void main(String[] args) throws IOException {
-    System.out.println("Hello world!");
+    //declaring variables and scanners
+    File myFile = new File("filename.txt");
+    myFile.createNewFile();
   }
